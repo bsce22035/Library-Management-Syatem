@@ -1,0 +1,6 @@
+ID: 9 | Title: Fundamentals of Electric Power Engineering | Author: Massimo Ceraolo | ISBN: ISBN116 | Due date: 0 | Fine: 2000 RS | Paid on: 2022-3-5
+ID: 2 | Title: Engineering Mechanics: Dynamics | Author: Russell C. Hibbeler | ISBN: ISBN456 | Due date: 0 | Fine: 1500 RS | Paid on: 2023-4-7
+ID: 6 | Title: Fluid Mechanics | Author:  Frank M. White | ISBN: ISBN113 | Due date: 0 | Fine: 2400 RS | Paid on: 2022-4-8
+ID: 21 | Title: Advance Engineering Mathematics | Author: Erwin Kreyszig | ISBN: ISBN7362 | Due date: 0 | Fine: 1200 RS | Paid on: 2022-12-31
+ID: 10 | Title: Principles of Geotechnical Engineering | Author: Braja M. Das | ISBN: ISBN117 | Due date: 0 | Fine: 300 RS | Paid on: 2023-4-12
+ID: 15 | Title: Electrical Engineering: Principles and Applications | Author: Allan R. Hambley | ISBN: ISBN122 | Due date: 0 | Fine: 1200 RS | Paid on: 2019-5-31

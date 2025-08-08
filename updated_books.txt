@@ -1,0 +1,22 @@
+21|Advance Engineering Mathematics|Erwin Kreyszig|ISBN7362|0
+13|Communication Systems|Simon Haykin|ISBN120|0
+11|Control Systems Engineering|Norman S. Nise|ISBN118|0
+17|Control Systems Engineering|I.J. Nagrath|ISBN124|0
+4|Digital Signal Processing|John G. Proakis|ISBN101|0
+5|Electric Circuits|James W. Nilsson|ISBN112|0
+15|Electrical Engineering: Principles and Applications|Allan R. Hambley|ISBN122|0
+16|Engineering Electromagnetics|William H. Hayt|ISBN123|0
+2|Engineering Mechanics: Dynamics|Russell C. Hibbeler|ISBN456|0
+6|Fluid Mechanics| Frank M. White|ISBN113|0
+18|Fundamentals of Aerodynamics|John D. Anderson Jr.|ISBN125|0
+9|Fundamentals of Electric Power Engineering|Massimo Ceraolo|ISBN116|0
+14|Fundamentals of Structural Analysis|Kenneth M. Leet|ISBN121|0
+1|Introduction to Algorithms|Thomas H. Cormen|ISBN123|0
+12|Introduction to Robotics|John J. Craig|ISBN119|0
+20|Machine Learning: A Probabilistic Perspective|Kevin P. Murphy|ISBN127|0
+8|Materials Science and Engineering: An Introduction|William D. Callister|ISBN115|0
+19|Mechanics of Materials|Ferdinand P. Beer|ISBN126|0
+10|Principles of Geotechnical Engineering|Braja M. Das|ISBN117|0
+22|Signals and Systems|Alan V.Oppenheim|ISBN9321|0
+3|Structural Analysis|Aslam Kassimali|ISBN789|0
+7|Thermodynamics: An Engineering Approach|Yunus A. Cengel|ISBN114|0
